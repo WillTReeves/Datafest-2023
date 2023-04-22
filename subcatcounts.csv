@@ -1,0 +1,960 @@
+StateAbbr,Subcategory,Id,CategoryUno,SubcategoryUno
+AK,Benefits,1,1,1
+AK,COVID-19-Consumer,1,1,1
+AK,COVID-19-Employment,1,1,1
+AK,COVID-19-Healthcare,1,1,1
+AK,COVID-19-Housing,1,1,1
+AK,COVID-19-Insurance,1,1,1
+AK,COVID-19-Lost Documents,1,1,1
+AK,COVID-19-Wills/Probate,1,1,1
+AK,Civil/Constitutional Rights,1,1,1
+AK,Debts & Purchases,1,1,1
+AK,Emancipation and Delinquency,1,1,1
+AK,Expungement,1,1,1
+AK,Family/Divorce/Custody,1,1,1
+AK,Health Care,1,1,1
+AK,Immigration,1,1,1
+AK,Medicaid/Medicare/Affordable Care Act,1,1,1
+AK,Natural Disaster ,1,1,1
+AK,Other,1,1,1
+AK,Personal Injury,1,1,1
+AK,School Discipline,1,1,1
+AK,Special Education,1,1,1
+AK,Wills/Inheritance,1,1,1
+AK,Work,1,1,1
+AK,Worker's Comp,1,1,1
+AL,Adult Guardian/Conservatorship,1,1,1
+AL,Benefits,1,1,1
+AL,Civil/Constitutional Rights,1,1,1
+AL,Debts & Purchases,1,1,1
+AL,Emancipation and Delinquency,1,1,1
+AL,Expungement,1,1,1
+AL,Family/Divorce/Custody,1,1,1
+AL,Health Care,1,1,1
+AL,Housing or Property Owned,1,1,1
+AL,Immigration,1,1,1
+AL,Medicaid/Medicare/Affordable Care Act,1,1,1
+AL,Natural Disaster,1,1,1
+AL,Other,1,1,1
+AL,Personal Injury,1,1,1
+AL,School Discipline,1,1,1
+AL,Special Education,1,1,1
+AL,Wills/Inheritance,1,1,1
+AL,Work,1,1,1
+AL,Worker's Comp,1,1,1
+AR,Benefits,1,1,1
+AR,Civil or Constitutional Rights,1,1,1
+AR,Debts & Purchases,1,1,1
+AR,Education,1,1,1
+AR,Emancipation and Delinquency,1,1,1
+AR,Expungement,1,1,1
+AR,Family Law or Divorce or Custody,1,1,1
+AR,Health Care,1,1,1
+AR,Housing or Property Owned,1,1,1
+AR,Immigration,1,1,1
+AR,Medicaid/Medicare/Affordable Care Act,1,1,1
+AR,Natural Disaster,1,1,1
+AR,Other,1,1,1
+AR,Personal Injury,1,1,1
+AR,School Discipline,1,1,1
+AR,Voting Rights and/or Elections,1,1,1
+AR,Wills/Inheritance,1,1,1
+AR,Work or Unemployment,1,1,1
+AR,Worker's Comp,1,1,1
+AZ,Discrimination and Civil Rights,1,1,1
+AZ,Emancipation and Delinquency,1,1,1
+AZ,Employment and Unemployment Issues,1,1,1
+AZ,Estates and Wills,1,1,1
+AZ,Expungement,1,1,1
+AZ,Family/Divorce/Custody,1,1,1
+AZ,Finances and Debt,1,1,1
+AZ,Health Care,1,1,1
+AZ,Housing - Landlord/Tenant and Mortgages,1,1,1
+AZ,Immigration,1,1,1
+AZ,Medicaid/Medicare/Affordable Care Act,1,1,1
+AZ,Natural Disaster,1,1,1
+AZ,Other,1,1,1
+AZ,Personal Injury,1,1,1
+AZ,Public Benefits,1,1,1
+AZ,School Discipline,1,1,1
+AZ,Special Education,1,1,1
+AZ,Worker's Compensation,1,1,1
+CA,Civil/Constitutional Rights,1,1,1
+CA,Emancipation and Delinquency,1,1,1
+CA,Expungement,1,1,1
+CA,Immigration,1,1,1
+CA,Medicaid/Medicare/Affordable Care Act,1,1,1
+CA,School Discipline,1,1,1
+CA,Special Education,1,1,1
+CA,Wildfire or COVID-19: Benefits,1,1,1
+CA,Wildfire or COVID-19: Debts & Purchases,1,1,1
+CA,Wildfire or COVID-19: Employment Law,1,1,1
+CA,Wildfire or COVID-19: Health Care,1,1,1
+CA,Wildfire or COVID-19: Housing or Landlord/Tenant,1,1,1
+CA,Wildfire or COVID-19: Natural Disaster,1,1,1
+CA,Wildfire or COVID-19: Other related issue,1,1,1
+CA,Wildfire or COVID-19: Personal Injury,1,1,1
+CA,Wildfire or COVID-19: Worker's Comp,1,1,1
+CA,Wildfire or COVID-19:Family Law,1,1,1
+CA,Wills/Inheritance,1,1,1
+CT,Benefits,1,1,1
+CT,Civil/Constitutional Rights,1,1,1
+CT,Consumer/Debts/Purchases,1,1,1
+CT,Criminal,1,1,1
+CT,Emancipation and Delinquency,1,1,1
+CT,Expungement,1,1,1
+CT,Family/Divorce/Custody,1,1,1
+CT,Health Care,1,1,1
+CT,Housing/Tenant's Rights/Landlord Issues,1,1,1
+CT,Immigration,1,1,1
+CT,Medicaid/Medicare/Affordable Care Act,1,1,1
+CT,Natural Disaster,1,1,1
+CT,Other,1,1,1
+CT,Personal Injury,1,1,1
+CT,School Discipline,1,1,1
+CT,Special Education,1,1,1
+CT,Wills/Inheritance,1,1,1
+CT,Work/Unemployment,1,1,1
+CT,Worker's Comp,1,1,1
+FL,Appellate,1,1,1
+FL,Benefits,1,1,1
+FL,Civil/Constitutional Rights,1,1,1
+FL,Contract Dispute,1,1,1
+FL,Debts & Purchases,1,1,1
+FL,Emancipation and Delinquency,1,1,1
+FL,Expungement,1,1,1
+FL,Family/Divorce/Custody,1,1,1
+FL,Guardianship,1,1,1
+FL,Health Care and Disability,1,1,1
+FL,Housing/Landlord Tenant/Eviction/Foreclosure or Property Owned,1,1,1
+FL,Hurricane ,1,1,1
+FL,Immigration,1,1,1
+FL,Medicaid/Medicare/Affordable Care Act,1,1,1
+FL,Other,1,1,1
+FL,Personal Injury,1,1,1
+FL,School Discipline,1,1,1
+FL,Special Education,1,1,1
+FL,Tax,1,1,1
+FL,Wills/Inheritance/Probate/Trust,1,1,1
+FL,Work/Employment/Unemployment,1,1,1
+FL,Worker's Comp,1,1,1
+GA,Benefits,1,1,1
+GA,Civil/Constitutional Rights,1,1,1
+GA,Debts & Purchases,1,1,1
+GA,Disaster Legal Help,1,1,1
+GA,Emancipation and Delinquency,1,1,1
+GA,Expungement,1,1,1
+GA,Family/Divorce/Custody,1,1,1
+GA,Health Care,1,1,1
+GA,Housing or Property Owned,1,1,1
+GA,"Hurricane - Consumer, Contracts and Insurance",1,1,1
+GA,Hurricane - Housing,1,1,1
+GA,"Hurricane - ID Replacement, Lost Documents",1,1,1
+GA,Hurricane - Other,1,1,1
+GA,"Hurricane - SNAP (Food Stamps), Unemployment Insurance",1,1,1
+GA,Hurricane - Tenant and Rental,1,1,1
+GA,Hurricane - Wills/Probate,1,1,1
+GA,Immigration,1,1,1
+GA,Medicaid/Medicare/Affordable Care Act,1,1,1
+GA,Natural Disaster,1,1,1
+GA,Other,1,1,1
+GA,Personal Injury,1,1,1
+GA,School Discipline,1,1,1
+GA,Special Education,1,1,1
+GA,Wills/Inheritance,1,1,1
+GA,Work,1,1,1
+GA,Worker's Comp,1,1,1
+HI,Bankruptcy,1,1,1
+HI,Civil/Constitutional Rights,1,1,1
+HI,Debt Collections,1,1,1
+HI,Disaster Relief,1,1,1
+HI,Emancipation and Delinquency,1,1,1
+HI,Expungement,1,1,1
+HI,Family/Divorce/Custody/Paternity,1,1,1
+HI,Immigration,1,1,1
+HI,Medicaid/Medicare/Affordable Care Act,1,1,1
+HI,Other,1,1,1
+HI,Personal Injury,1,1,1
+HI,Private Landlord Tenant ,1,1,1
+HI,School Discipline,1,1,1
+HI,Small Claims ($5000 and under USD),1,1,1
+HI,Special Education,1,1,1
+HI,VA Benefits,1,1,1
+HI,Wills & Estate Planning ,1,1,1
+HI,Work,1,1,1
+HI,Worker's Comp,1,1,1
+IA,Benefits,1,1,1
+IA,Civil/Constitutional Rights,1,1,1
+IA,Debts & Purchases,1,1,1
+IA,Emancipation and Delinquency,1,1,1
+IA,Expungement,1,1,1
+IA,Family/Divorce/Custody,1,1,1
+IA,Health Care,1,1,1
+IA,Housing or Property Owned,1,1,1
+IA,Immigration,1,1,1
+IA,Medicaid/Medicare/Affordable Care Act,1,1,1
+IA,Natural Disaster,1,1,1
+IA,Other,1,1,1
+IA,Personal Injury,1,1,1
+IA,School Discipline,1,1,1
+IA,Special Education,1,1,1
+IA,Wills/Inheritance,1,1,1
+IA,Work,1,1,1
+IA,Worker's Comp,1,1,1
+ID,Benefits,1,1,1
+ID,Civil/Constitutional Rights,1,1,1
+ID,Debts & Purchases,1,1,1
+ID,Emancipation and Delinquency,1,1,1
+ID,Expungement,1,1,1
+ID,Family/Divorce/Custody,1,1,1
+ID,Health Care,1,1,1
+ID,Housing or Property Owned,1,1,1
+ID,Immigration,1,1,1
+ID,Medicaid/Medicare/Affordable Care Act,1,1,1
+ID,Natural Disaster,1,1,1
+ID,Other,1,1,1
+ID,Personal Injury,1,1,1
+ID,School Discipline,1,1,1
+ID,Special Education,1,1,1
+ID,Wills/Inheritance,1,1,1
+ID,Work,1,1,1
+ID,Worker's Comp,1,1,1
+IL,Adult/Minor Guardianship,1,1,1
+IL,Civil Appeals,1,1,1
+IL,Civil/Constitutional Rights & Discrimination,1,1,1
+IL,Consumer Protection,1,1,1
+IL,Education/School Discipline/Special Education,1,1,1
+IL,Expungement/Sealing,1,1,1
+IL,Family/Safety/Divorce/Custody,1,1,1
+IL,Health/Healthcare/Disability,1,1,1
+IL,Housing/Renting/Homelessness,1,1,1
+IL,Immigration,1,1,1
+IL,Juvenile,1,1,1
+IL,Money/Debt/Consumer Protection,1,1,1
+IL,Other,1,1,1
+IL,Public Benefits,1,1,1
+IL,School Discipline,1,1,1
+IL,Small Claims/Personal Injury,1,1,1
+IL,Wills/Inheritance/Powers of Attorney,1,1,1
+IL,Work/Employment/Unemployment,1,1,1
+IL,Worker's Comp,1,1,1
+IN,Adoption,1,1,1
+IN,Advanced Directives & Powers of Attorneys,1,1,1
+IN,Bankruptcy or Debtor Relief Cases,1,1,1
+IN,Child Support,1,1,1
+IN,Civil Rights Cases,1,1,1
+IN,Collections Case,1,1,1
+IN,Contract Disputes,1,1,1
+IN,Criminal,1,1,1
+IN,Custody & Visitation issues,1,1,1
+IN,Disability and Mental Health Law,1,1,1
+IN,"Divorce, Separation, Annulment Cases",1,1,1
+IN,Domestic Abuse/Protection Orders,1,1,1
+IN,Drivers License,1,1,1
+IN,Education Law Cases,1,1,1
+IN,Employment Discrimination Cases,1,1,1
+IN,Employment Issues ,1,1,1
+IN,Expungement,1,1,1
+IN,Family & Children Other,1,1,1
+IN,"Food Stamps, Welfare and Township Poor Relief",1,1,1
+IN,Foreclosure,1,1,1
+IN,"Guardianship, Adult",1,1,1
+IN,"Guardianship, Minor ",1,1,1
+IN,Housing - Eviction non-subsidized,1,1,1
+IN,Housing - non-subsidized / not Sec 8,1,1,1
+IN,Housing - subsidized,1,1,1
+IN,Housing Discrimination,1,1,1
+IN,Immigration and Naturalization,1,1,1
+IN,Insurance Claims ,1,1,1
+IN,Juvenile,1,1,1
+IN,Legal Assistance to Non-Profit Groups,1,1,1
+IN,Long Term Health Facilities,1,1,1
+IN,"Medicare, Medicaid",1,1,1
+IN,Miscellaneous,1,1,1
+IN,Mortgage Foreclosure Cases,1,1,1
+IN,Name Change,1,1,1
+IN,No Legal Question Asked,1,1,1
+IN,Parental Rights Termination,1,1,1
+IN,Paternity,1,1,1
+IN,Private Health Insurance,1,1,1
+IN,Public Utility Cases,1,1,1
+IN,SSI SSDI,1,1,1
+IN,Support,1,1,1
+IN,Taxes & Earned Income Tax Credit Cases,1,1,1
+IN,Unemployment Compensation,1,1,1
+IN,Veterans Benefits,1,1,1
+IN,Wage and FLSA Cases,1,1,1
+IN,Wills & Estates,1,1,1
+KS,Benefits,1,1,1
+KS,Civil/Constitutional Rights,1,1,1
+KS,Criminal,1,1,1
+KS,Debts & Purchases,1,1,1
+KS,Emancipation and Delinquency,1,1,1
+KS,Expungement,1,1,1
+KS,Family/Divorce/Custody,1,1,1
+KS,GENERAL CIVIL PROCEDURE,1,1,1
+KS,Health Care,1,1,1
+KS,Housing or Property Owned,1,1,1
+KS,Immigration,1,1,1
+KS,Medicaid/Medicare/Affordable Care Act,1,1,1
+KS,Natural Disaster,1,1,1
+KS,Other,1,1,1
+KS,Personal Injury,1,1,1
+KS,School Discipline,1,1,1
+KS,Social Security Disability,1,1,1
+KS,Special Education,1,1,1
+KS,Wills/Inheritance,1,1,1
+KS,Work,1,1,1
+KS,Worker's Comp,1,1,1
+LA,Benefits,1,1,1
+LA,Civil/Constitutional Rights,1,1,1
+LA,"Copyrights, Trademarks, and Patents ",1,1,1
+LA,Debts & Purchases,1,1,1
+LA,Emancipation and Delinquency,1,1,1
+LA,Expungement,1,1,1
+LA,Family/Divorce/Custody,1,1,1
+LA,Health Care,1,1,1
+LA,Housing or Property Owned,1,1,1
+LA,Hurricane Ida - Debts & Purchases,1,1,1
+LA,Hurricane Ida - FEMA ,1,1,1
+LA,Hurricane Ida - Family/Divorce/Custody,1,1,1
+LA,Hurricane Ida - Housing or Property Owned,1,1,1
+LA,Hurricane Ida - Insurance ,1,1,1
+LA,Hurricane Ida - Public Benefits,1,1,1
+LA,Immigration,1,1,1
+LA,Medicaid/Medicare/Affordable Care Act,1,1,1
+LA,Natural Disaster,1,1,1
+LA,Other,1,1,1
+LA,Personal Injury,1,1,1
+LA,School Discipline,1,1,1
+LA,Special Education,1,1,1
+LA,Wills/Inheritance,1,1,1
+LA,Work,1,1,1
+LA,Worker's Comp,1,1,1
+MA,CORI or Criminal Records,1,1,1
+MA,Civil Rights,1,1,1
+MA,Debts or Consumer or Bankruptcy,1,1,1
+MA,Employment Issues,1,1,1
+MA,Family or Divorce or Custody,1,1,1
+MA,Government Benefits (SNAP or TAFDC),1,1,1
+MA,Housing or Real Estate,1,1,1
+MA,Immigration,1,1,1
+MA,MassHealth or Medicare or Health Insurance,1,1,1
+MA,Other,1,1,1
+MA,SSI or SSDI or Social Security,1,1,1
+MA,School or Special Education,1,1,1
+MA,Taxes,1,1,1
+MA,Veterans,1,1,1
+MA,Wills or Trusts or Estates,1,1,1
+MD,Benefits,1,1,1
+MD,Civil/Constitutional Rights,1,1,1
+MD,Debts & Purchases,1,1,1
+MD,Emancipation and Delinquency,1,1,1
+MD,Expungement,1,1,1
+MD,Family/Divorce/Custody,1,1,1
+MD,Health Care,1,1,1
+MD,Housing or Property Owned,1,1,1
+MD,Immigration,1,1,1
+MD,Medicaid/Medicare/Affordable Care Act,1,1,1
+MD,Natural Disaster,1,1,1
+MD,Other,1,1,1
+MD,Personal Injury,1,1,1
+MD,School Discipline,1,1,1
+MD,Special Education,1,1,1
+MD,Wills/Inheritance,1,1,1
+MD,Work,1,1,1
+MD,Worker's Comp,1,1,1
+ME,Benefits,1,1,1
+ME,Civil/Constitutional Rights,1,1,1
+ME,"Debts, Bankruptcy & Purchases",1,1,1
+ME,Emancipation and Delinquency,1,1,1
+ME,Expungement,1,1,1
+ME,Family/Divorce/Custody/Adoption,1,1,1
+ME,Health Care,1,1,1
+ME,Housing or Real Estate or Evictions,1,1,1
+ME,Immigration,1,1,1
+ME,MaineCare/Medicare/Affordable Care Act,1,1,1
+ME,Natural Disaster,1,1,1
+ME,Other,1,1,1
+ME,Personal Injury,1,1,1
+ME,Power of Attorney/Conservatorship/Adult Guardianship,1,1,1
+ME,"Safety, Domestic Abuse, Protection from Abuse or Harassment",1,1,1
+ME,School Discipline,1,1,1
+ME,Small Claims,1,1,1
+ME,Special Education,1,1,1
+ME,"Taxes, State or Federal",1,1,1
+ME,Wills/Trusts/Inheritance,1,1,1
+ME,"Work, Employment & Unemployment",1,1,1
+ME,Worker's Comp,1,1,1
+MI,Bankruptcy,1,1,1
+MI,Benefits,1,1,1
+MI,Civil/Constitutional Rights,1,1,1
+MI,Debt Collection,1,1,1
+MI,Debts & Purchases,1,1,1
+MI,Emancipation and Delinquency,1,1,1
+MI,Expungement,1,1,1
+MI,Family/Divorce/Custody,1,1,1
+MI,Health Care,1,1,1
+MI,Housing or Property,1,1,1
+MI,Immigration,1,1,1
+MI,Medicaid/Medicare/Affordable Care Act,1,1,1
+MI,Natural Disaster,1,1,1
+MI,Other,1,1,1
+MI,Personal Injury,1,1,1
+MI,School Discipline,1,1,1
+MI,Special Education,1,1,1
+MI,Veteran's Legal Issues,1,1,1
+MI,Water Issues,1,1,1
+MI,Wills/Inheritance,1,1,1
+MI,Work,1,1,1
+MI,Worker's Comp,1,1,1
+MO,Auto or Property Insurance,1,1,1
+MO,Benefits,1,1,1
+MO,Business/Intellectual Property,1,1,1
+MO,Civil/Constitutional Rights,1,1,1
+MO,Debts & Purchases,1,1,1
+MO,Debts & Purchases - COVID 19,1,1,1
+MO,Emancipation and Delinquency,1,1,1
+MO,Employment/Unemployment,1,1,1
+MO,Employment/Unemployment - COVID 19,1,1,1
+MO,Expungement,1,1,1
+MO,Family/Divorce/Custody,1,1,1
+MO,Family/Divorce/Custody - COVID 19,1,1,1
+MO,Guardianship or Power of Attorney,1,1,1
+MO,Guardianship/POA - COVID 19,1,1,1
+MO,Health Care,1,1,1
+MO,Healthcare - COVID 19,1,1,1
+MO,Home or Property Owned,1,1,1
+MO,Home or Property Owned - COVID 19,1,1,1
+MO,Immigration,1,1,1
+MO,Individual Rights - COVID 19,1,1,1
+MO,Medicaid/Medicare/Affordable Care Act,1,1,1
+MO,Natural Disaster,1,1,1
+MO,Other,1,1,1
+MO,Personal Injury,1,1,1
+MO,Rental Property,1,1,1
+MO,Rental Property - COVID 19,1,1,1
+MO,School/Education,1,1,1
+MO,Special Education,1,1,1
+MO,Wills/Inheritance,1,1,1
+MO,Worker's Comp,1,1,1
+MS,Benefits,1,1,1
+MS,Civil/Constitutional Rights,1,1,1
+MS,Debts & Purchases,1,1,1
+MS,Emancipation and Delinquency,1,1,1
+MS,Expungement,1,1,1
+MS,Family/Divorce/Custody,1,1,1
+MS,Health Care,1,1,1
+MS,Housing or Property Owned,1,1,1
+MS,Immigration,1,1,1
+MS,Medicaid/Medicare/Affordable Care Act,1,1,1
+MS,Natural Disaster,1,1,1
+MS,Other,1,1,1
+MS,Personal Injury,1,1,1
+MS,School Discipline,1,1,1
+MS,Special Education,1,1,1
+MS,Wills/Inheritance,1,1,1
+MS,Work/Employment,1,1,1
+MS,Worker's Comp,1,1,1
+NC,"Bankruptcy, Debts & Purchases",1,1,1
+NC,Business or Tax,1,1,1
+NC,COVID-19/Coronavirus ,1,1,1
+NC,Civil Procedure,1,1,1
+NC,Civil/Constitutional Rights,1,1,1
+NC,Contracts,1,1,1
+NC,Copyright/Trademark/Inventions,1,1,1
+NC,DSS/DHHS/CPS/Parental Rights,1,1,1
+NC,Domestic Violence/Restraining Orders,1,1,1
+NC,Emancipation & Delinquency,1,1,1
+NC,Estate/Wills/Inheritance/Power of Attorney,1,1,1
+NC,Expungement,1,1,1
+NC,Family/Divorce/Custody/Visitation/Child Support,1,1,1
+NC,"Government Benefits (SNAP, TANF, SOS, SSI/D)",1,1,1
+NC,Health Care,1,1,1
+NC,Housing/Eviction/Foreclosure/Tenants,1,1,1
+NC,Hurricane - Consumer,1,1,1
+NC,Hurricane - Housing,1,1,1
+NC,Hurricane - Insurance,1,1,1
+NC,Hurricane - Lost Documents,1,1,1
+NC,Hurricane - Other,1,1,1
+NC,Hurricane - Scam/Consumer Protection,1,1,1
+NC,Hurricane - Wills/Probate,1,1,1
+NC,Immigration,1,1,1
+NC,Insurance (property or car insurance),1,1,1
+NC,Medicaid/Medicare/Affordable Care Act,1,1,1
+NC,Military/Veteran,1,1,1
+NC,Other,1,1,1
+NC,Personal Injury,1,1,1
+NC,Privacy Rights,1,1,1
+NC,Property,1,1,1
+NC,"School Discipline (Short-term suspensions, Long-term suspensions, Expulsions)",1,1,1
+NC,"Special Education (IEPs, 504 Plans, Behavioral Intervention Plans)",1,1,1
+NC,Traffic Tickets,1,1,1
+NC,Work/Employment/Unemployment,1,1,1
+NC,Worker's Comp,1,1,1
+ND,Benefits,1,1,1
+ND,Civil/Constitutional Rights,1,1,1
+ND,Debts & Purchases,1,1,1
+ND,Emancipation and Delinquency,1,1,1
+ND,Expungement,1,1,1
+ND,Family/Divorce/Custody,1,1,1
+ND,Health Care,1,1,1
+ND,Housing or Property Owned,1,1,1
+ND,Immigration,1,1,1
+ND,Medicaid/Medicare/Affordable Care Act,1,1,1
+ND,Natural Disaster,1,1,1
+ND,Other,1,1,1
+ND,Personal Injury,1,1,1
+ND,School Discipline,1,1,1
+ND,Special Education,1,1,1
+ND,Wills/Inheritance,1,1,1
+ND,Work,1,1,1
+ND,Worker's Comp,1,1,1
+NE,2019 Flood -Consumer,1,1,1
+NE,2019 Flood -Housing,1,1,1
+NE,2019 Flood -Insurance,1,1,1
+NE,2019 Flood -Lost Documents,1,1,1
+NE,2019 Flood -Other,1,1,1
+NE,2019 Flood -Wills/Probate,1,1,1
+NE,Adoption,1,1,1
+NE,Alimony,1,1,1
+NE,Bankruptcy/Debtor Relief,1,1,1
+NE,Child Support,1,1,1
+NE,Civil Rights,1,1,1
+NE,"Collection (Repossession, Delinquency, Garnishment)",1,1,1
+NE,Contracts/Warranties,1,1,1
+NE,Criminal Expungement/Set Aside Conviction,1,1,1
+NE,Custody/Parenting Time,1,1,1
+NE,Disability Rights,1,1,1
+NE,Divorce/Separation/Annulment,1,1,1
+NE,Domestic Abuse/Protection or Harassment Order,1,1,1
+NE,Emancipation,1,1,1
+NE,Employee Rights,1,1,1
+NE,Employment Discrimination,1,1,1
+NE,Grandparent Visitation,1,1,1
+NE,Guardianship/Conservatorship,1,1,1
+NE,Health Care,1,1,1
+NE,Home Ownership/Real Property,1,1,1
+NE,Human Trafficking,1,1,1
+NE,Immigration/Naturalization,1,1,1
+NE,Juvenile Court,1,1,1
+NE,Medicaid/Medicare/Affordable Care Act,1,1,1
+NE,Mental Health,1,1,1
+NE,Name Change Adult,1,1,1
+NE,Name Change Minor,1,1,1
+NE,Natural Disaster,1,1,1
+NE,Other/Issue Not Listed,1,1,1
+NE,Parental Rights Termination,1,1,1
+NE,Paternity,1,1,1
+NE,Private Landlord/Tenant,1,1,1
+NE,Probate,1,1,1
+NE,Public Assistance Benefits,1,1,1
+NE,School Discipline (including Expulsion and Suspension),1,1,1
+NE,Special Education/Learning Disabilities,1,1,1
+NE,Student Financial Aid,1,1,1
+NE,Torts/Personal Injury/Negligence,1,1,1
+NE,Wage Claims and FLSA Issues,1,1,1
+NE,Wills/Estates/Inheritance,1,1,1
+NE,"Work, Employment, Unemployment",1,1,1
+NE,Workers Compensation Benefits,1,1,1
+NH,Benefits,1,1,1
+NH,Civil/Constitutional Rights,1,1,1
+NH,Criminal Record Annulment,1,1,1
+NH,Debts & Purchases,1,1,1
+NH,Emancipation and Delinquency,1,1,1
+NH,Employment/Unemployment,1,1,1
+NH,Family/Divorce/Custody,1,1,1
+NH,Health Care,1,1,1
+NH,Housing or Property Owned,1,1,1
+NH,Immigration,1,1,1
+NH,Medicaid/Medicare/Affordable Care Act,1,1,1
+NH,Natural Disaster,1,1,1
+NH,Other,1,1,1
+NH,Personal Injury,1,1,1
+NH,School Discipline,1,1,1
+NH,Special Education,1,1,1
+NH,Taxes-IRS,1,1,1
+NH,Wills/Inheritance,1,1,1
+NH,Worker's Comp,1,1,1
+NJ,Benefits,1,1,1
+NJ,Civil/Constitutional Rights,1,1,1
+NJ,Debts & Purchases,1,1,1
+NJ,Emancipation and Delinquency,1,1,1
+NJ,Expungement,1,1,1
+NJ,Family/Divorce/Custody,1,1,1
+NJ,Health Care,1,1,1
+NJ,Housing or Property Owned,1,1,1
+NJ,Immigration,1,1,1
+NJ,Medicaid/Medicare/Affordable Care Act,1,1,1
+NJ,Natural Disaster,1,1,1
+NJ,Other,1,1,1
+NJ,Personal Injury,1,1,1
+NJ,School Discipline,1,1,1
+NJ,Special Education,1,1,1
+NJ,Wills/Inheritance,1,1,1
+NJ,Work,1,1,1
+NJ,Worker's Comp,1,1,1
+NM,Benefits,1,1,1
+NM,Civil/Constitutional Rights,1,1,1
+NM,Debts & Purchases,1,1,1
+NM,Emancipation and Delinquency,1,1,1
+NM,Expungement,1,1,1
+NM,Family/Divorce/Custody,1,1,1
+NM,Health Care or Disability,1,1,1
+NM,Housing or Property,1,1,1
+NM,Immigration,1,1,1
+NM,Medicaid/Medicare/Affordable Care Act,1,1,1
+NM,"Natural Disaster, Insurance",1,1,1
+NM,Personal Injury,1,1,1
+NM,"Probate, wills and estate ",1,1,1
+NM,School Discipline,1,1,1
+NM,Special Education,1,1,1
+NM,Wills/Inheritance,1,1,1
+NM,"Work, Employment, or Unemployment",1,1,1
+NM,Worker's Comp,1,1,1
+NY,Bankruptcy ,1,1,1
+NY,Benefits,1,1,1
+NY,COVID-19 Unemployment and work,1,1,1
+NY,Civil/Constitutional Rights,1,1,1
+NY,Debts & Purchases,1,1,1
+NY,Emancipation and Delinquency,1,1,1
+NY,Estates and Probate,1,1,1
+NY,Expungement,1,1,1
+NY,Family/Divorce/Custody,1,1,1
+NY,Health Care,1,1,1
+NY,Housing or Property Owned,1,1,1
+NY,Hurricane Ida - Consumer Rights,1,1,1
+NY,Hurricane Ida - Family/Children,1,1,1
+NY,Hurricane Ida - Housing,1,1,1
+NY,Immigration,1,1,1
+NY,Medicaid/Medicare/Affordable Care Act,1,1,1
+NY,Natural Disaster,1,1,1
+NY,Other,1,1,1
+NY,Personal Injury,1,1,1
+NY,School Discipline,1,1,1
+NY,Special Education,1,1,1
+NY,Tenant's Rights,1,1,1
+NY,Wills/Inheritance,1,1,1
+NY,Worker's Comp,1,1,1
+OK,Bankruptcy,1,1,1
+OK,Benefits,1,1,1
+OK,Civil/Constitutional Rights/Due Process,1,1,1
+OK,Contracts & Breach,1,1,1
+OK,DHS Family Involvement,1,1,1
+OK,Debts & Purchases,1,1,1
+OK,Discrimination/Wrongful Termination,1,1,1
+OK,Emancipation and Delinquency,1,1,1
+OK,Employment/Labor Law,1,1,1
+OK,Expungement,1,1,1
+OK,Family/Divorce/Custody,1,1,1
+OK,Guardianship,1,1,1
+OK,Health Care - Other,1,1,1
+OK,Housing or Property,1,1,1
+OK,Immigration,1,1,1
+OK,Insurance,1,1,1
+OK,Landlord/Tenant,1,1,1
+OK,Medicaid/Medicare/Affordable Care Act,1,1,1
+OK,Natural Disaster,1,1,1
+OK,Other,1,1,1
+OK,Personal Injury,1,1,1
+OK,Professional or Technical Licensure,1,1,1
+OK,Property Damages,1,1,1
+OK,Repossession of Property,1,1,1
+OK,School Discipline,1,1,1
+OK,Special Education,1,1,1
+OK,Unemployment,1,1,1
+OK,Wills/Inheritance,1,1,1
+OK,Worker's Comp,1,1,1
+PA,Benefits,1,1,1
+PA,Civil/Constitutional Rights,1,1,1
+PA,Debts & Purchases,1,1,1
+PA,Emancipation and Delinquency,1,1,1
+PA,Expungement,1,1,1
+PA,Family/Divorce/Custody,1,1,1
+PA,Health Care,1,1,1
+PA,Housing or Property Owned,1,1,1
+PA,Immigration,1,1,1
+PA,Medicaid/Medicare/Affordable Care Act,1,1,1
+PA,Natural Disaster,1,1,1
+PA,Other,1,1,1
+PA,Personal Injury,1,1,1
+PA,School Discipline,1,1,1
+PA,Special Education,1,1,1
+PA,Wills/Inheritance,1,1,1
+PA,Work,1,1,1
+PA,Worker's Comp,1,1,1
+SC,Bankruptcy,1,1,1
+SC,Benefits,1,1,1
+SC,COVID 19 - Bankruptcy,1,1,1
+SC,COVID 19 - Benefits,1,1,1
+SC,COVID 19 - Family,1,1,1
+SC,COVID 19 - Healthcare,1,1,1
+SC,COVID 19 - Insurance,1,1,1
+SC,COVID 19 - Landlord/Tenant,1,1,1
+SC,COVID 19 - Other,1,1,1
+SC,COVID 19 - Other Housing,1,1,1
+SC,COVID 19 - Probate,1,1,1
+SC,COVID 19 - School,1,1,1
+SC,"COVID 19 - Work, Employment and Unemployment",1,1,1
+SC,Consumer,1,1,1
+SC,Family Law Questions,1,1,1
+SC,Health Care,1,1,1
+SC,Housing,1,1,1
+SC,Hurricane Florence - Lost Documents,1,1,1
+SC,Immigration/Citizenship,1,1,1
+SC,Landlord Tenant,1,1,1
+SC,Other - Non-criminal,1,1,1
+SC,Probate,1,1,1
+SC,School/Juvenile,1,1,1
+SC,Work,1,1,1
+SD,Benefits,1,1,1
+SD,Civil/Constitutional Rights,1,1,1
+SD,Debts & Purchases,1,1,1
+SD,Emancipation and Delinquency,1,1,1
+SD,Expungement,1,1,1
+SD,Family/Divorce/Custody,1,1,1
+SD,Health Care,1,1,1
+SD,Housing or Property Owned,1,1,1
+SD,Immigration,1,1,1
+SD,Medicaid/Medicare/Affordable Care Act,1,1,1
+SD,Natural Disaster,1,1,1
+SD,Other,1,1,1
+SD,Personal Injury,1,1,1
+SD,School Discipline,1,1,1
+SD,Special Education,1,1,1
+SD,Wills/Inheritance,1,1,1
+SD,Work,1,1,1
+SD,Worker's Comp,1,1,1
+TN,Benefits,1,1,1
+TN,Civil/Constitutional Rights,1,1,1
+TN,Criminal,1,1,1
+TN,Debts & Purchases,1,1,1
+TN,Emancipation and Delinquency,1,1,1
+TN,Expungement,1,1,1
+TN,Family/Divorce/Custody,1,1,1
+TN,General Civil Procedure,1,1,1
+TN,Health Care,1,1,1
+TN,Housing or Property Owned,1,1,1
+TN,Immigration,1,1,1
+TN,Inheriting Property,1,1,1
+TN,Medicaid/Medicare/Affordable Care Act,1,1,1
+TN,Middle TN Tornado Recovery,1,1,1
+TN,Natural Disaster/East TN Fires,1,1,1
+TN,Other,1,1,1
+TN,Personal Injury,1,1,1
+TN,School Discipline,1,1,1
+TN,Seniors,1,1,1
+TN,Special Education,1,1,1
+TN,Veterans Issues,1,1,1
+TN,Wills/Inheriting Property,1,1,1
+TN,Work,1,1,1
+TN,Worker's Comp,1,1,1
+TX,Animal Law,1,1,1
+TX,Bankruptcy,1,1,1
+TX,Benefits,1,1,1
+TX,Business,1,1,1
+TX,Constitutional/Civil Rights,1,1,1
+TX,Consumer/Debt,1,1,1
+TX,Criminal,1,1,1
+TX,Disability Rights,1,1,1
+TX,Domestic Violence,1,1,1
+TX,Emancipation and Delinquency,1,1,1
+TX,Employment,1,1,1
+TX,Expunction/Expungement & Nondisclosure,1,1,1
+TX,Family/Divorce/Custody/Adoption,1,1,1
+TX,Guardianship,1,1,1
+TX,Health Care,1,1,1
+TX,Housing,1,1,1
+TX,Immigration,1,1,1
+TX,Insurance,1,1,1
+TX,Juvenile,1,1,1
+TX,LGBT Issues,1,1,1
+TX,Landlord/Tenant,1,1,1
+TX,Licenses,1,1,1
+TX,Military/Veteran,1,1,1
+TX,Natural Disaster,1,1,1
+TX,Other,1,1,1
+TX,Personal Injury,1,1,1
+TX,Probate/Wills/Estate Planning,1,1,1
+TX,Real Estate,1,1,1
+TX,Special Education,1,1,1
+TX,Taxes,1,1,1
+TX,To Be Closed,1,1,1
+TX,Workers' Comp,1,1,1
+US,Immigration - Asylum,1,1,1
+US,Immigration - Battered/abused spouses,1,1,1
+US,Immigration - Children's cases,1,1,1
+US,Immigration - DACA,1,1,1
+US,Immigration - Deportation/Removal Proceedings,1,1,1
+US,Immigration - Green Cards - DV Lottery & Other,1,1,1
+US,Immigration - Green Cards - Employment Based,1,1,1
+US,Immigration - Green Cards - Marriage/Family Based,1,1,1
+US,Immigration - Impact of Criminal Record,1,1,1
+US,Immigration - Naturalization/Citizenship,1,1,1
+US,Immigration - Other,1,1,1
+US,Immigration - Student and other visas,1,1,1
+US,Immigration - TPS,1,1,1
+US,Immigration - Work Permits,1,1,1
+US,Veterans - Discharge Upgrade,1,1,1
+US,Veterans - Military Records (correcting or ordering) ,1,1,1
+US,Veterans - Military Retirement ,1,1,1
+US,Veterans - Other ,1,1,1
+US,"Veterans - Other VA Benefits (Survivor's Benefits, Death Benefits, etc.)",1,1,1
+US,Veterans - VA Disability Benefits ,1,1,1
+US,Veterans - VA Overpayments ,1,1,1
+US,Veterans - VA Pension,1,1,1
+UT,Benefits,1,1,1
+UT,Business/Contracts,1,1,1
+UT,Civil/Constitutional Rights,1,1,1
+UT,Debts & Purchases,1,1,1
+UT,Emancipation and Delinquency,1,1,1
+UT,Expungement,1,1,1
+UT,Family/Divorce/Custody,1,1,1
+UT,Health Care,1,1,1
+UT,Housing or Property Owned,1,1,1
+UT,Immigration,1,1,1
+UT,Intellectual Property,1,1,1
+UT,Medicaid/Medicare/Affordable Care Act,1,1,1
+UT,Natural Disaster,1,1,1
+UT,Other,1,1,1
+UT,Personal Injury,1,1,1
+UT,School Discipline,1,1,1
+UT,Special Education,1,1,1
+UT,Wills/Inheritance,1,1,1
+UT,Work,1,1,1
+UT,Worker's Comp,1,1,1
+VA,Benefits,1,1,1
+VA,Civil/Constitutional Rights,1,1,1
+VA,Debts & Purchases,1,1,1
+VA,Emancipation and Delinquency,1,1,1
+VA,Expungement,1,1,1
+VA,Family/Divorce/Custody,1,1,1
+VA,Health Care,1,1,1
+VA,Housing or Property Owned,1,1,1
+VA,Immigration,1,1,1
+VA,Medicaid/Medicare/Affordable Care Act,1,1,1
+VA,Natural Disaster,1,1,1
+VA,Natural Disaster - Debts & Purchases,1,1,1
+VA,Natural Disaster - Housing,1,1,1
+VA,Natural Disaster - Insurance,1,1,1
+VA,Natural Disaster - Lost Documents,1,1,1
+VA,Natural Disaster - Other,1,1,1
+VA,Natural Disaster - Wills and Probate,1,1,1
+VA,Other,1,1,1
+VA,Personal Injury,1,1,1
+VA,School Discipline,1,1,1
+VA,Special Education,1,1,1
+VA,Wills/Inheritance,1,1,1
+VA,Work,1,1,1
+VA,Worker's Comp,1,1,1
+VI,Benefits,1,1,1
+VI,Civil/Constitutional Rights,1,1,1
+VI,Debts & Purchases,1,1,1
+VI,Emancipation and Delinquency,1,1,1
+VI,Expungement,1,1,1
+VI,Family/Divorce/Custody,1,1,1
+VI,Health Care,1,1,1
+VI,Housing or Property Owned,1,1,1
+VI,Immigration,1,1,1
+VI,Medicaid/Medicare/Affordable Care Act,1,1,1
+VI,Natural Disaster,1,1,1
+VI,Other,1,1,1
+VI,Personal Injury,1,1,1
+VI,School Discipline,1,1,1
+VI,Special Education,1,1,1
+VI,Wills/Inheritance,1,1,1
+VI,Work,1,1,1
+VI,Worker's Comp,1,1,1
+VT,Benefits,1,1,1
+VT,Civil/Constitutional Rights,1,1,1
+VT,Debts & Purchases,1,1,1
+VT,Emancipation and Delinquency,1,1,1
+VT,Expungement,1,1,1
+VT,Family/Divorce/Custody,1,1,1
+VT,Health Care,1,1,1
+VT,Housing or Property Owned,1,1,1
+VT,Immigration,1,1,1
+VT,Medicaid/Medicare/Affordable Care Act,1,1,1
+VT,Natural Disaster,1,1,1
+VT,Other,1,1,1
+VT,Personal Injury,1,1,1
+VT,School Discipline,1,1,1
+VT,Special Education,1,1,1
+VT,Wills/Inheritance,1,1,1
+VT,Work,1,1,1
+VT,Worker's Comp,1,1,1
+WA,Benefits,1,1,1
+WA,Civil/Constitutional Rights,1,1,1
+WA,Debts & Purchases,1,1,1
+WA,Emancipation and Delinquency,1,1,1
+WA,Expungement,1,1,1
+WA,Family/Divorce/Custody,1,1,1
+WA,Health Care,1,1,1
+WA,Housing or Property Owned,1,1,1
+WA,Immigration,1,1,1
+WA,Medicaid/Medicare/Affordable Care Act,1,1,1
+WA,Natural Disaster,1,1,1
+WA,Other,1,1,1
+WA,Personal Injury,1,1,1
+WA,School Discipline,1,1,1
+WA,Special Education,1,1,1
+WA,Wills/Inheritance,1,1,1
+WA,Work,1,1,1
+WA,Worker's Comp,1,1,1
+WI,Civil Rights,1,1,1
+WI,Criminal,1,1,1
+WI,Debts & Purchases,1,1,1
+WI,Disability,1,1,1
+WI,Driver's License,1,1,1
+WI,Education,1,1,1
+WI,Employment/Unemployment,1,1,1
+WI,Expungement and Pardons,1,1,1
+WI,Family,1,1,1
+WI,Health insurance,1,1,1
+WI,Immigration,1,1,1
+WI,Indian Law,1,1,1
+WI,Life and Property Insurance,1,1,1
+WI,Municipal tickets,1,1,1
+WI,Nonprofits,1,1,1
+WI,Other,1,1,1
+WI,Personal Injury,1,1,1
+WI,Personal Property,1,1,1
+WI,"Probate, Wills & POA",1,1,1
+WI,"Public Benefits (SS, SSI, SSDI, W-2)",1,1,1
+WI,Real Estate,1,1,1
+WI,Seniors,1,1,1
+WI,Tax,1,1,1
+WI,Tenant-Landlord,1,1,1
+WI,Veterans benefits,1,1,1
+WI,Workers Compensation,1,1,1
+WV,Bankruptcy,1,1,1
+WV,Consumer and Debt,1,1,1
+WV,Employment and Work,1,1,1
+WV,Family/Divorce/Custody/Domestic Violence,1,1,1
+WV,Health Care,1,1,1
+WV,Housing and Property,1,1,1
+WV,Medicaid/Medicare/Affordable Care Act,1,1,1
+WV,Personal Injury,1,1,1
+WV,Public Benefits,1,1,1
+WV,Taxes,1,1,1
+WV,Wills and Estates,1,1,1
+WY,Bankruptcy,1,1,1
+WY,Benefits,1,1,1
+WY,Civil/Constitutional Rights,1,1,1
+WY,Debts & Purchases,1,1,1
+WY,Emancipation and Delinquency,1,1,1
+WY,Expungement,1,1,1
+WY,Family/Divorce/Custody,1,1,1
+WY,Health Care,1,1,1
+WY,Housing or Property Owned,1,1,1
+WY,Immigration,1,1,1
+WY,Medicaid/Medicare/Affordable Care Act,1,1,1
+WY,Name Change,1,1,1
+WY,Natural Disaster,1,1,1
+WY,Other,1,1,1
+WY,Personal Injury,1,1,1
+WY,School Discipline,1,1,1
+WY,Special Education,1,1,1
+WY,Wills/Inheritance,1,1,1
+WY,Work,1,1,1
+WY,Worker's Comp,1,1,1
